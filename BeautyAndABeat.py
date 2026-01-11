@@ -43,3 +43,4 @@ def printLyrics():
         show_cursor()
 
 printLyrics()
+
